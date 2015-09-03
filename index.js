@@ -11,7 +11,6 @@ module.exports = {
 
     app.import(path.join(app.bowerDirectory, 'lodash/lodash.js'));
     app.import(path.join(app.bowerDirectory, 'interact/interact.js'));
-    app.import(path.join(app.bowerDirectory, 'moment/moment.js'));
     app.import(path.join(app.bowerDirectory, 'moment-timezone/builds/moment-timezone-with-data.js'));
 
     app.import('vendor/ewd-calendar/lodash.js', {
