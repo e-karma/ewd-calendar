@@ -1,5 +1,5 @@
 {
-  "name": "ember-calendar",
+  "name": "ewd-calendar",
   "version": "0.1.4",
   "description": "An awesome Ember calendar",
   "directories": {
@@ -11,7 +11,7 @@
     "build": "ember build",
     "test": "ember try:testall"
   },
-  "repository": "https://github.com/alphasights/ember-calendar",
+  "repository": "https://github.com/e-karma/ewd-calendar",
   "engines": {
     "node": ">= 0.10.0"
   },
@@ -45,9 +45,5 @@
   },
   "keywords": [
     "ember-addon"
-  ],
-  "ember-addon": {
-    "configPath": "tests/dummy/config",
-    "demoURL": "https://alphasights.github.io/ember-calendar/demo"
-  }
+  ]
 }
