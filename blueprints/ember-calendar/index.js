@@ -6,7 +6,7 @@ module.exports = {
 
   beforeInstall: function() {
     return this.addPackagesToProject([
-      { name: 'broccoli-sass' }
+      { name: 'ewd-sass', target: 'git+https://github.com/e-karma/ewd-sass.git' }
     ]);
   },
 

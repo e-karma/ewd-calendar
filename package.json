@@ -19,7 +19,6 @@
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "2.1.0",
-    "broccoli-sass": "0.6.6",
     "ember-cli": "1.13.1",
     "ember-cli-app-version": "0.3.5",
     "ember-cli-autoprefixer": "0.4.1",
@@ -33,7 +32,8 @@
     "ember-data": "1.13.5",
     "ember-disable-proxy-controllers": "1.0.0",
     "ember-export-application-global": "1.0.2",
-    "ember-try": "0.0.7"
+    "ember-try": "0.0.7",
+    "ewd-sass": "git+https://github.com/e-karma/ewd-sass.git"
   },
   "dependencies": {
     "ember-cli-babel": "5.0.0",
