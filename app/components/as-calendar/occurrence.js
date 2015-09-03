@@ -1,2 +1,2 @@
-import OccurrenceComponent from 'ember-calendar/components/as-calendar/occurrence';
+import OccurrenceComponent from 'ewd-calendar/components/as-calendar/occurrence';
 export default OccurrenceComponent;

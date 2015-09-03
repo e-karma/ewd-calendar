@@ -1,6 +1,6 @@
 import Ember from 'ember';
 import moment from 'moment';
-import computedMoment from 'ember-calendar/macros/computed-moment';
+import computedMoment from 'ewd-calendar/macros/computed-moment';
 import Day from './day';
 
 var OccurrenceProxy = Ember.Object.extend(Ember.Copyable, {

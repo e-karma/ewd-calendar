@@ -1,2 +1,2 @@
-import TimeZoneSelectComponent from 'ember-calendar/components/as-calendar/time-zone-select';
+import TimeZoneSelectComponent from 'ewd-calendar/components/as-calendar/time-zone-select';
 export default TimeZoneSelectComponent;

@@ -14,17 +14,17 @@ module.exports = {
     app.import(path.join(app.bowerDirectory, 'moment/moment.js'));
     app.import(path.join(app.bowerDirectory, 'moment-timezone/builds/moment-timezone-with-data.js'));
 
-    app.import('vendor/ember-calendar/lodash.js', {
+    app.import('vendor/ewd-calendar/lodash.js', {
       type: 'vendor',
       exports: { 'lodash': ['default'] }
     });
 
-    app.import('vendor/ember-calendar/jstz.js', {
+    app.import('vendor/ewd-calendar/jstz.js', {
       type: 'vendor',
       exports: { 'jstz': ['default'] }
     });
 
-    app.import('vendor/ember-calendar/interact.js', {
+    app.import('vendor/ewd-calendar/interact.js', {
       type: 'vendor',
       exports: { 'interact': ['default'] }
     });

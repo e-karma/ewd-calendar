@@ -10,7 +10,7 @@ import {
   resizeOccurrence,
   dragOccurrence,
   selectTimeZone
-} from 'ember-calendar/test-helpers/all';
+} from 'ewd-calendar/test-helpers/all';
 
 moduleForComponent('as-calendar', 'AsCalendarComponent', { integration: true });
 

@@ -1,2 +1,2 @@
-import TimetableComponent from 'ember-calendar/components/as-calendar/timetable';
+import TimetableComponent from 'ewd-calendar/components/as-calendar/timetable';
 export default TimetableComponent;

@@ -1,6 +1,6 @@
 import Ember from 'ember';
-import computedMoment from 'ember-calendar/macros/computed-moment';
-import computedDuration from 'ember-calendar/macros/computed-duration';
+import computedMoment from 'ewd-calendar/macros/computed-moment';
+import computedDuration from 'ewd-calendar/macros/computed-duration';
 import Calendar from './calendar';
 import OccurrenceProxy from './occurrence-proxy';
 

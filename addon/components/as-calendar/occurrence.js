@@ -1,5 +1,5 @@
 import Ember from 'ember';
-import computedDuration from 'ember-calendar/macros/computed-duration';
+import computedDuration from 'ewd-calendar/macros/computed-duration';
 
 export default Ember.Component.extend({
   attributeBindings: ['_style:style'],

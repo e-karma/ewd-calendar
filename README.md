@@ -1,17 +1,17 @@
-<h1><img src="https://raw.githubusercontent.com/alphasights/ember-calendar/develop/images/logo.png" alt="Ember Calendar" width="340px"></h1>
+<h1><img src="https://raw.githubusercontent.com/alphasights/ewd-calendar/develop/images/logo.png" alt="Ember Calendar" width="340px"></h1>
 
-[![Npm Version](https://badge.fury.io/js/ember-calendar.svg)](http://badge.fury.io/js/ember-calendar)
-[![Ember Observer Score](http://emberobserver.com/badges/ember-calendar.svg)](http://emberobserver.com/addons/ember-calendar)
+[![Npm Version](https://badge.fury.io/js/ewd-calendar.svg)](http://badge.fury.io/js/ewd-calendar)
+[![Ember Observer Score](http://emberobserver.com/badges/ewd-calendar.svg)](http://emberobserver.com/addons/ewd-calendar)
 [![Code
-Climate](https://codeclimate.com/github/alphasights/ember-calendar/badges/gpa.svg)](https://codeclimate.com/github/alphasights/ember-calendar)
-[![Build Status](https://circleci.com/gh/alphasights/ember-calendar.svg?style=shield&circle-token=6fa581b50c5f8496cf26768394cf6c1d43dfb98e)](https://circleci.com/gh/alphasights/ember-calendar)
+Climate](https://codeclimate.com/github/alphasights/ewd-calendar/badges/gpa.svg)](https://codeclimate.com/github/alphasights/ewd-calendar)
+[![Build Status](https://circleci.com/gh/alphasights/ewd-calendar.svg?style=shield&circle-token=6fa581b50c5f8496cf26768394cf6c1d43dfb98e)](https://circleci.com/gh/alphasights/ewd-calendar)
 
 An awesome Ember calendar, designed with composability and reusability in mind.
 
 ![Calendar in
-action](https://raw.githubusercontent.com/alphasights/ember-calendar/develop/images/calendar.png)
+action](https://raw.githubusercontent.com/alphasights/ewd-calendar/develop/images/calendar.png)
 
-[Check out the demo](https://alphasights.github.io/ember-calendar/demo)
+[Check out the demo](https://alphasights.github.io/ewd-calendar/demo)
 
 ## Features
 
@@ -23,7 +23,7 @@ action](https://raw.githubusercontent.com/alphasights/ember-calendar/develop/ima
 
 ## Installation
 
-`ember install ember-calendar`
+`ember install ewd-calendar`
 
 ## Philosophy
 
@@ -154,7 +154,7 @@ We do not add any vendor CSS to your app by default, but you can include it if y
 ```scss
 // app/styles/app.scss
 
-@import 'addons/ember-calendar/main';
+@import 'addons/ewd-calendar/main';
 ```
 
 Bear in mind that the default styles require `ember-cli-paint`. To install it, run:
@@ -165,7 +165,7 @@ Bear in mind that the default styles require `ember-cli-paint`. To install it, r
 
 ### Setup
 
-* `git clone https://github.com/alphasights/ember-calendar.git`
+* `git clone https://github.com/alphasights/ewd-calendar.git`
 * `npm install && bower install`
 
 ### Running
